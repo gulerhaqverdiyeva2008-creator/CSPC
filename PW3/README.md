@@ -1,21 +1,19 @@
 # PW3 - Statistical Data Analysis
 
-## Overview
+# Overview
 
 This project analyzes two datasets using Python.
 
 The first dataset is the Heart Disease dataset.
 The second dataset is the Chemical Exposure dataset.
 
-## Libraries Used
-
+# Libraries Used
 - pandas
 - numpy
 - matplotlib
 - scipy
 
-## Tasks
-
+# Tasks
 1. Loading and exploring datasets.
 2. Visualizing continuous variables using histograms.
 3. Testing normality using Shapiro-Wilk tests and Q-Q plots.
@@ -24,8 +22,7 @@ The second dataset is the Chemical Exposure dataset.
 6. Analyzing chemical exposure and malignancy correlations.
 7. Investigating confounding variables.
 
-## Files
-
+# Files
 - pw3_analysis.py
 - heart.csv
 - chemicals cancer.csv
